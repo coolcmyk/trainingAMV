@@ -1,10 +1,10 @@
 alat atau software yang dibutuhkan untuk tugas pertama:
-- obs (https://obsproject.com/download)
-- ubuntu 22 (terserah mau dual boot, boot dari flashdisk atau dari vm (virtual machine))
+
+- obs (<https://obsproject.com/download>)
+- ubuntu 20 (terserah mau dual boot, boot dari flashdisk atau dari vm (virtual machine))
 - background image (nanti gw kasih)
 - kitty
 - packet tracer
-
 
 detail tugas pertama (deadline 7 hari):
 
@@ -22,8 +22,6 @@ lalu masukin ke txt dalam folder individu, link youtube recording masukin ke bar
 
 4. ) install packet tracer dan buka file .pkt yang gw kasih (record cara ssh ke router jetson)
 
-
-
 hasil akhir file txt:
 
 Ryan Adidaru 2309999999
@@ -32,7 +30,5 @@ Ryan Adidaru 2309999999
 
 link yt 1 (vim)
 link yt 2 (packet tracer)
-
-
 
 add dog
