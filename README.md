@@ -30,5 +30,3 @@ Ryan Adidaru 2309999999
 
 link yt 1 (vim)
 link yt 2 (packet tracer)
-
-add dog
